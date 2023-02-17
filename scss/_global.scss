@@ -1,0 +1,8 @@
+
+.title {
+  @extend %raleway-700;
+  font-size: clamp(1.563rem, 1.335rem + 1.14vw, 2.188rem); /*27px*/
+  line-height: 1.2;
+  letter-spacing: 0.075rem;/*1.2px*/
+  text-transform: capitalize;
+}
